@@ -1,0 +1,54 @@
+License & Terms of Use
+Axure iPad widget library
+
+///// License Agreement
+This is a legal agreement between You,
+the User of the Axure iPad widget library,
+and kreativr. By downloading the
+Axure iPad widget library files, you agree to be
+bound by the terms of this agreement. All ownership
+and copyright of the images and icons
+included in the Axure iPad widget library remain
+the property of kreativr or the mentioned
+copyright holders or creators. kreativr grants
+to you a non-exclusive, non-sublicensable right
+to use the files. You may not lease, license or
+sub-license the Axure iPad widget library, or
+a subset of the Axure iPad widget library, or
+any modified Axure iPad widget library to any
+third party. You may not incorporate them into
+your own software or design products. All icon
+files are provided „As is“ without warranties
+of merchantability and fitness for a particular
+purpose. You agree to hold kreativr harmless
+for any result that may occur during the course
+of using the licensed Axure iPad widget library.
+This license agreement shall be governed and
+construed in accordance with the laws of Hannover,
+Germany. If any provision of this license
+agreement is held to be unenforceable, this
+License Agreement will remain in effect with
+the provision omitted.
+
+///// Terms of Use
+These terms govern your use of the
+Axure iPad widget library. If you do not
+agree with these terms, do not use the
+Axure iPad widget library.
+In no event shall kreativr be liable to a user or
+a third party for any indirect, special, or consequential
+damages, including lost profits, lost
+data, and the like arising out of or in connection
+with this agreement.
+1. You‘re free to use the
+Axure iPad widget library for commercial and
+non-commercial projects under the mentioned
+agreements.
+2. You may not sell, redistribute or sub-license
+the files.
+
+///// Copyrights
+iPhone and iPad are trademarks of Apple Inc.,
+registered in the U.S. and other countries.
+Axure is a trademark of Axure Software
+Solutions, Inc.
